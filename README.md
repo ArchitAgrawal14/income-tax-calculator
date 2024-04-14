@@ -43,7 +43,7 @@ d.Run the project:
   You can run the file by double clicking(For some editors) or in case of Vs-code right click and go to "open with live   
   server" or you can use "Alt+L Alt+O" to open file in live server.
   
-e.Explore:Now you will be able to View And text the project as per the need.
+e.Explore:Now you will be able to View And test the project as per the need.
 
 5.Usage:
 
