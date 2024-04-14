@@ -1,12 +1,13 @@
 # income-tax-calculator
-
 1.Introduction:
 This is a website for tax claculation based on user input, here user inputs affects the output of the file 
 tax calculation works based on a formula.
 
 2.Features:
 a.Validation of the correct input is done using regular expression if user gives a wrong input in a certain feild it will show an error in that specific feild only.
+
 b.It gives the output as a popup with precise calculation according to user input.
+
 c.It will error if the number entered is negative. 
 
 3.Technology:
@@ -38,12 +39,20 @@ e.Explore:Now you will be able to View And text the project as per the need.
 a.After following the setup instruction you will enter in a live server there firstly you will need to enter your details   
   like-
   i.Gross annual income.
+  
   ii.Extra income.
+  
   iii.Deductions that you have like medical premium etc.
+  
   iv.Age-There are brackets for age you will have to choose a slot from their.
+  
 b.All the feilds are mandatory or you will get an error.
-c.After entering the details you will need to hit the submit button which will calculate Your overall income after tax the     result will be in a popup window.  
+
+c.After entering the details you will need to hit the submit button which will calculate Your overall income after tax the   
+result will be in a popup window.  
+
 d.we can close the tab by hitting the close button and can again calculate income by following the same process.
+
 e.we can also reset the input feilds by clicking the reset button.
 
 6.Test Cases:
