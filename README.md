@@ -79,6 +79,9 @@ First Case-Value equal to 800000
   4.age-<40.
 
   Screenshot:
+  
+  ![first test case](https://github.com/ArchitAgrawal14/income-tax-calculator/assets/82366674/e032e927-8001-432f-8323-edede29d7a5b)
+
 
 Second Case-Value less then 800000
 
@@ -91,6 +94,8 @@ Second Case-Value less then 800000
   4.age->60
 
   Screenshot:
+  
+  ![2nd test case](https://github.com/ArchitAgrawal14/income-tax-calculator/assets/82366674/c2825380-6355-4ae1-8e85-d71f4a26408e)
 
   
 Third Case-Value greater then 8 lakhs
@@ -105,6 +110,7 @@ Third Case-Value greater then 8 lakhs
 
   Screenshot:
 
+  ![3rd test case](https://github.com/ArchitAgrawal14/income-tax-calculator/assets/82366674/0c77e35e-9306-4ca6-a516-fe486385ef4b)
   
 Forth Case-Negative number
 
@@ -118,6 +124,7 @@ Forth Case-Negative number
 
   Screenshot:
 
+  ![4th test case](https://github.com/ArchitAgrawal14/income-tax-calculator/assets/82366674/e0ed4c69-0287-48b4-af57-7d761ce422d4)
 
   
 Fifth Case-Decimal number
@@ -132,7 +139,9 @@ Fifth Case-Decimal number
   
   Screenshot:
 
-  
+  ![5th test case](https://github.com/ArchitAgrawal14/income-tax-calculator/assets/82366674/0d38a16e-fbd0-48e8-9033-939d4a588989)
+
+
 Sixth Case-Invalid input in gross annual income
 
   1.Gross annual income:abg
@@ -144,6 +153,8 @@ Sixth Case-Invalid input in gross annual income
   4.age->60.
 
   Screenshot:
+
+  ![6th test case](https://github.com/ArchitAgrawal14/income-tax-calculator/assets/82366674/45a9fa81-04f8-40a8-8dc2-7e61dd1cdf09)
 
 
 Seventh Case-Invalid input in Extra income
@@ -158,6 +169,8 @@ Seventh Case-Invalid input in Extra income
 
   Screenshot:
 
+  ![7th test case](https://github.com/ArchitAgrawal14/income-tax-calculator/assets/82366674/220d57d8-2918-4d68-a0c1-2318132abd6a)
+
 
 Eight Case-Invalid input in Deductions
 
@@ -170,6 +183,8 @@ Eight Case-Invalid input in Deductions
   4.age-<40.
 
   Screenshot:
+
+  ![8th test case](https://github.com/ArchitAgrawal14/income-tax-calculator/assets/82366674/4b1c3ab6-b1fb-44b7-aa8f-1f96e842790c)
 
   
 Ninth Case- No input in age
@@ -184,6 +199,8 @@ Ninth Case- No input in age
 
   Screenshot:
 
+  ![9th test case](https://github.com/ArchitAgrawal14/income-tax-calculator/assets/82366674/3dec94f7-a53e-4fbb-80cb-23d1152a74da)
+
   
 Tenth Case-Invalid input in All
 
@@ -196,6 +213,9 @@ Tenth Case-Invalid input in All
   4.age-Empty.
 
   Screenshot:
+
+  ![10th test case](https://github.com/ArchitAgrawal14/income-tax-calculator/assets/82366674/44f2208b-dcdd-498f-aa85-f6feca3b7d26)
+
 
   
   
