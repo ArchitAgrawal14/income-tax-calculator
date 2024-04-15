@@ -67,4 +67,135 @@ d.we can close the tab by hitting the close button and can again calculate incom
 e.we can also reset the input feilds by clicking the reset button.
 
 6.Test Cases:
-  1.Gross annual income
+
+First Case-Value equal to 800000
+
+  1.Gross annual income:800000
+
+  2.Extra Income:25000
+
+  3.Deductions:25000
+
+  4.age-<40.
+
+  Screenshot:
+
+Second Case-Value less then 800000
+
+  1.Gross annual income:800000
+
+  2.Extra Income:20000
+
+  3.Deductions:25000
+
+  4.age->60
+
+  Screenshot:
+
+  
+Third Case-Value greater then 8 lakhs
+
+  1.Gross annual income:900000
+
+  2.Extra Income:200000
+
+  3.Deductions:25000
+
+  4.age->=40 & <60
+
+  Screenshot:
+
+  
+Forth Case-Negative number
+
+  1.Gross annual income:-900000
+
+  2.Extra Income:200000
+
+  3.Deductions:25000
+
+  4.age-<40.
+
+  Screenshot:
+
+
+  
+Fifth Case-Decimal number
+
+  1.Gross annual income:900000.34
+
+  2.Extra Income:200000.131
+
+  3.Deductions:25000.12
+
+  4.age->=40 & <60.
+  
+  Screenshot:
+
+  
+Sixth Case-Invalid input in gross annual income
+
+  1.Gross annual income:abg
+
+  2.Extra Income:200000.131
+
+  3.Deductions:25000.12
+
+  4.age->60.
+
+  Screenshot:
+
+
+Seventh Case-Invalid input in Extra income
+
+  1.Gross annual income:8786876
+
+  2.Extra Income:abg
+
+  3.Deductions:25000.12
+
+  4.age->60.
+
+  Screenshot:
+
+
+Eight Case-Invalid input in Deductions
+
+  1.Gross annual income:900000
+
+  2.Extra Income:823678
+
+  3.Deductions:25000.abc
+
+  4.age-<40.
+
+  Screenshot:
+
+  
+Ninth Case- No input in age
+
+  1.Gross annual income:900000
+
+  2.Extra Income:abc
+
+  3.Deductions:25000.12
+
+  4.age-Empty.
+
+  Screenshot:
+
+  
+Tenth Case-Invalid input in All
+
+  1.Gross annual income:900.001.01
+
+  2.Extra Income:abc
+
+  3.Deductions:25000.12.
+  
+  4.age-Empty.
+
+  Screenshot:
+
+  
+  
